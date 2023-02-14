@@ -1,6 +1,6 @@
 Olá! Eu sou Emanuel Messias 
 
-- 🔭 Atualmente não atuo em nenhum empresa.
+- 🔭 Atualmente não atuo em nenhuma empresa.
 - 🌱 Estudando: Python
 - 😄 Pronouns: Ele/Dele
 
